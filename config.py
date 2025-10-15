@@ -13,13 +13,12 @@ BOT_TOKEN = "7616480254:AAFwqQ4CfuEENBvnhYzmgTHbLNsuld8XB_0"
 
 BOT_ID = 7616480254
 
-BOT_USERNAME = "@Aethonixmusicbot"
+BOT_USERNAME = "@Sakamoto_musicbot"
 
 OWNER_USERNAME = "@eren_aethonix"
 
-BOT_NAME = "˹𝐀ᴇᴛʜᴏɴɪ𝐱 ꭙ 𝐌ᴜ𝐬ɪᴄ ˼™"
-
-ASSUSERNAME = "@batmanplayzz"
+BOT_NAME = "˹𝑺ᴀᴋᴀᴍᴏᴛᴏ ꭙ 𝐌ᴜ𝐬ɪᴄ ˼™⚡️
+ASSUSERNAME = "@Eren_playz"
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
@@ -29,7 +28,7 @@ API_KEY = getenv("API_KEY", "30DxNexGenBots107029")
 
 DURATION_LIMIT_MIN = 500000
 
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002812568647"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002970645365")
 
 DISASTER_LOG = -1002346695101
 
