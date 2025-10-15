@@ -5,19 +5,19 @@ from pyrogram import filters
 load_dotenv()
 
 
-API_ID = 14457171
+API_ID = 21968859
 
-API_HASH = "a65975d31ab29dce12992cb1f78688de"
+API_HASH = "21a59d21687f01d448530ee88a26b1eb"
 
-BOT_TOKEN = "7616480254:AAFwqQ4CfuEENBvnhYzmgTHbLNsuld8XB_0"
+BOT_TOKEN = "8205094659:AAFDg1gSxl1OCCCKDRRsyoWLJJuEobstvns"
 
-BOT_ID = 7616480254
+BOT_ID = 8205094659
 
 BOT_USERNAME = "@Sakamoto_musicbot"
 
 OWNER_USERNAME = "@eren_aethonix"
 
-BOT_NAME = "˹𝑺ᴀᴋᴀᴍᴏᴛᴏ ꭙ 𝐌ᴜ𝐬ɪᴄ ˼™⚡️
+BOT_NAME = "˹𝑺ᴀᴋᴀᴍᴏᴛᴏ ꭙ 𝐌ᴜ𝐬ɪᴄ ˼™⚡️"
 ASSUSERNAME = "@Eren_playz"
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -87,9 +87,9 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL =  "https://i.ibb.co/Xr3J7Kv3/photo-2025-10-13-10-24-24-7560650262243704856.jpg"
+START_IMG_URL =  "https://i.ibb.co/PsxMmzrt/photo-2025-10-15-09-42-56-7561381733828919316.jpg"
 PLAYLIST_IMG_URL = "https://i.ibb.co/kgvX7FPC/photo-2025-10-13-10-24-24-7560650262243704836.jpg"
-STATS_IMG_URL = "https://i.ibb.co/kgvX7FPC/photo-2025-10-13-10-24-24-7560650262243704836.jpg"
+STATS_IMG_URL = "https://i.ibb.co/PsxMmzrt/photo-2025-10-15-09-42-56-7561381733828919316.jpg"
 TELEGRAM_AUDIO_URL = "https://i.ibb.co/kgvX7FPC/photo-2025-10-13-10-24-24-7560650262243704836.jpg"
 TELEGRAM_VIDEO_URL = "https://i.ibb.co/kgvX7FPC/photo-2025-10-13-10-24-24-7560650262243704836.jpg"
 STREAM_IMG_URL = "https://i.ibb.co/kgvX7FPC/photo-2025-10-13-10-24-24-7560650262243704836.jpg"
